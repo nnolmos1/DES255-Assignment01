@@ -51,10 +51,6 @@ function draw() {
     rect(160+ randGhostOffset, 70, 85, 145); //door
 
     strokeWeight(1);
-    textFont('Roboto Mono');
-    textSize(14);
-    text("DES255_", 250 +randOffset, 290);
-    text("01_", 250 +randOffset, 310);
 
 }
 //---------------------------------------------------------------------------
